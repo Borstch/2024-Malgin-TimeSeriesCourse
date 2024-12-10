@@ -1,0 +1,8 @@
+numpy<2.2
+scikit-learn<1.6.0
+sktime==0.35.0
+opencv-python==4.10.0.84
+imutils==0.5.4
+matplotlib==3.9.3
+plotly==5.24.1
+nbformat>=4.2.0
