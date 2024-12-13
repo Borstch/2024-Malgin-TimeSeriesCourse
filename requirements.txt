@@ -10,3 +10,7 @@ nbformat>=4.2.0
 mass-ts==0.1.4
 Jinja2==3.1.4
 stumpy==1.11.1
+torch==2.5.*
+fancyimpute==0.7.0
+pypots==0.0.9
+statsmodels==0.14.4
